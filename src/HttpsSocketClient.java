@@ -51,3 +51,4 @@ public class HttpsSocketClient {
     }
 }
 //https://www.baeldung.com/java-ssl-handshake-failures
+//http://www.java2s.com/Tutorial/Java/0490__Security/CertificationforHTTPS.htm
